@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Soy un desarrollador full-stack en formación con especial interés en programación en **Python**</h3>
+<h3 align="center">Soy un desarrollador full-stack en formación con especial interés en programación en Python</h3>
 
 - 🔭 I’m currently working on [Aplicación de scheduling de hangouts](https://github.com/Danmilk/PozoleConnect.git)
 
